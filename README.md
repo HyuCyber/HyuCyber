@@ -9,27 +9,3 @@
 ![wahyuxd.jpg](https://user-images.githubusercontent.com/115902571/196156804-e2ea36e4-7ed7-4fec-a0a7-bf8ec9dbae45.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Babay+Adik+Adik)](https://git.io/typing-svg)
 ### Don't forget comeback to my account [WahyuKullBet]() Brother 
-
-### Hi there, I'm WahyuDin Ambia 👋
-
-### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/MochWahyuXD/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MochWahyuXD &show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MochWahyuXD &theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochWahyuXD &layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
-
-<!--
-**MochWahyuXD/MochWahyuXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
