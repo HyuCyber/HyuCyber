@@ -1,11 +1,17 @@
-[![Facebokm Badge](https://img.shields.io/badge/-WaGyoXD-white?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD) [![Instagram Badge](https://img.shields.io/badge/-itsmeewagyo__-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/itsmeewagyoo_/)](https://www.instagram.com/itsmeewagyoo_/) [![WhatsApp Badge](https://img.shields.io/badge/-6281215812815-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6281215812815/)](https://wa.me/-6281215812815-green/) [![Github Badge](https://img.shields.io/badge/-HyuCyber-black?style=flat&logo=Github&logoColor=white&link=https://github.com/HyuCyber/)](https://github.com/HyuCyber) [![Tiktok Badge](https://img.shields.io/badge/-wagyo32-black?style=flat&logo=Tiktok&logoColor=white&link=https://www.tiktok.com/wagyo32/)](https://www.tiktok.com/wagyo32-black/) [![Facebokm Badge](https://img.shields.io/badge/-Wahyu.XNXCODE-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/Wahyu.XNXCODE/)](https://www.facebook.com/Wahyu.XNXCODE/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
+<h2> Hey There! I'm Wahyu.</h2>
 
-### XNXCODE [2021]() TOGETHER
+ ### XNXCODE [2021]() TOGETHER
 ![xnxcode](https://user-images.githubusercontent.com/92802033/181095877-c5b0ce2f-5bc4-402e-8abb-b2828c4ec01f.png)
 
-### Helo ngab, [WahyuXD]() is here
-### INI FOTMEK
-![wahyuxd.jpg](https://user-images.githubusercontent.com/115902571/196156804-e2ea36e4-7ed7-4fec-a0a7-bf8ec9dbae45.jpg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Babay+Adik+Adik)](https://git.io/typing-svg)
-### Don't forget comeback to my account [WahyuKullBet]() Brother 
+<img src="https://github-readme-stats.vercel.app/api?username=hyucyber&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyucyber&theme=radical&title_color=8E2DE2&text_color=fff)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.youtube.com/wahyuu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/itsmeewagyoo_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://wa.me/6283132458199" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/WaGyoXD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
+</p>
