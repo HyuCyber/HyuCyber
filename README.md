@@ -15,3 +15,5 @@
 &nbsp; <a href="https://wa.me/6283132458199" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
 &nbsp; <a href="https://www.facebook.com/WaGyoXD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
 </p>
+ WARNING ⚠️
+<img src="https://gd-hbimg.huaban.com/6260d3a85707fc180552af37a11a57091016ec897fc319-byA0T0_fw658">
